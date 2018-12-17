@@ -17,12 +17,7 @@ Just a personal listing of helpful js libraries/framework
 
 ## Async
 
-### Callback
-
 - [request](https://www.npmjs.com/package/request)
-
-### Promise
-
 - [axios](https://www.npmjs.com/package/axios)
 
 ## Authentication
@@ -33,8 +28,13 @@ Just a personal listing of helpful js libraries/framework
 ## Browser Storage
 
 - [basil](https://wisembly.github.io/basil.js/)
+- [cookies](https://www.npmjs.com/package/cookies)
 - [ImmortalDB](https://github.com/gruns/ImmortalDB)
 - [store](https://github.com/marcuswestin/store.js/)
+
+## Caching
+
+- [redis node client](http://redis.js.org/)
 
 ## Content Management System
 
@@ -78,10 +78,17 @@ Just a personal listing of helpful js libraries/framework
 - [react drag-and-drop list](https://github.com/atlassian/react-beautiful-dnd)
 - [react dates](http://airbnb.io/react-dates/)
 - [react flip move](https://joshwcomeau.github.io/react-flip-move/)
-- [react-parts](https://react.parts/)
+- [react-parts](https://react.partAsyncs/)
 - [react-redux](https://react-redux.js.org/)
+- [react-router-dom](react-router-dom)
 - [redux](https://redux.js.org/)
+- [redux-form](https://redux-form.com/)
+- [redux-thunk](https://github.com/reduxjs/redux-thunk)
 - [tabulator](http://tabulator.info/)
+
+## ID Management
+
+- [shortid](https://www.npmjs.com/package/shortid)
 
 ## Image Processing
 
@@ -108,6 +115,13 @@ Just a personal listing of helpful js libraries/framework
 ## Process Management
 
 - [pm2](http://pm2.keymetrics.io/)
+
+## Security
+
+- [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter)
+- [hemlet](https://www.npmjs.com/package/helmet)
+- [ratelimiter](https://www.npmjs.com/package/ratelimiter)
+- [retirejs](https://retirejs.github.io/retire.js/)
 
 ## Spreadsheet
 
@@ -148,9 +162,11 @@ Just a personal listing of helpful js libraries/framework
 - [kraken](http://krakenjs.com/)
 - [nock](https://github.com/nock/nock)
 - [node](https://nodejs.org/en/)
+- [winston](https://www.npmjs.com/package/winston)
 
 ### Express Server Middleware
 
 - [body-parser](https://www.npmjs.com/package/body-parser)
-- [cookier-session](https://www.npmjs.com/package/cookie-session)
+- [cookie-session](https://www.npmjs.com/package/cookie-session)
 - [express-session](https://www.npmjs.com/package/express-session)
+- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
