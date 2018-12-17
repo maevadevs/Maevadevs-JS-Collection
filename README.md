@@ -4,77 +4,102 @@ Just a personal listing of helpful js libraries/framework
 
 ## Animation
 
-- [Velocity](http://velocityjs.org/)
+- [velocity](http://velocityjs.org/)
 
 ## API Documentation
 
-- [Slate](https://github.com/lord/slate)
+- [slate](https://github.com/lord/slate)
+
+## Application Secrets
+
+- [cross-env](https://www.npmjs.com/package/cross-env)
+- [dotenv](https://www.npmjs.com/package/dotenv/v/0.3.0)
+
+## Async
+
+### Callback
+
+- [request](https://www.npmjs.com/package/request)
+
+### Promise
+
+- [axios](https://www.npmjs.com/package/axios)
 
 ## Authentication
 
-- [Grant](https://github.com/simov/grant)
-- [Passport](http://www.passportjs.org/)
+- [grant](https://github.com/simov/grant)
+- [passport](http://www.passportjs.org/)
 
 ## Browser Storage
 
-- [Basil](https://wisembly.github.io/basil.js/)
+- [basil](https://wisembly.github.io/basil.js/)
 - [ImmortalDB](https://github.com/gruns/ImmortalDB)
-- [Store](https://github.com/marcuswestin/store.js/)
+- [store](https://github.com/marcuswestin/store.js/)
 
 ## Content Management System
 
-- [Keystone](https://keystonejs.com/)
+- [keystone](https://keystonejs.com/)
+
+## Database
+
+- [mongoose](https://mongoosejs.com/)
 
 ## Data Visualization
 
-- [D3](https://d3js.org/)
-- [Highcharts](https://www.highcharts.com/)
+- [d3](https://d3js.org/)
+- [highcharts](https://www.highcharts.com/)
 
 ## Dates and Times
 
-- [Day](https://github.com/iamkun/dayjs)
-- [Moment](https://momentjs.com/)
+- [day](https://github.com/iamkun/dayjs)
+- [moment](https://momentjs.com/)
 
 ## Desktop
 
-- [Electron](https://electronjs.org/)
+- [electron](https://electronjs.org/)
 
 ## DevTools
 
+- [babel](https://babeljs.io/)
+- [concurrently](https://www.npmjs.com/package/concurrently)
+- [eslint](https://eslint.org/)
 - [fx](https://github.com/antonmedv/fx)
+- [module-alias](https://www.npmjs.com/package/module-alias)
+- [nodemon](https://nodemon.io/)
+- [webpack](https://webpack.js.org/)
 
 ## GUI
 
-- [Glider](https://nickpiscitelli.github.io/Glider.js/)
-- [GoJS](https://github.com/NorthwoodsSoftware/GoJS)
-- [Nivo](https://nivo.rocks/)
-- [React Formik](https://jaredpalmer.com/formik)
-- [React](https://reactjs.org/)
-- [React Drag-And-Drop List](https://github.com/atlassian/react-beautiful-dnd)
-- [React Dates](http://airbnb.io/react-dates/)
-- [React Flip Move](https://joshwcomeau.github.io/react-flip-move/)
-- [React-Parts](https://react.parts/)
-- [React-Redux](https://react-redux.js.org/)
-- [Redux](https://redux.js.org/)
-- [Tabulator](http://tabulator.info/)
+- [glider](https://nickpiscitelli.github.io/Glider.js/)
+- [gojs](https://github.com/NorthwoodsSoftware/GoJS)
+- [nivo](https://nivo.rocks/)
+- [react formik](https://jaredpalmer.com/formik)
+- [react](https://reactjs.org/)
+- [react drag-and-drop list](https://github.com/atlassian/react-beautiful-dnd)
+- [react dates](http://airbnb.io/react-dates/)
+- [react flip move](https://joshwcomeau.github.io/react-flip-move/)
+- [react-parts](https://react.parts/)
+- [react-redux](https://react-redux.js.org/)
+- [redux](https://redux.js.org/)
+- [tabulator](http://tabulator.info/)
 
 ## Image Processing
 
-- [Sharp](http://sharp.pixelplumbing.com/en/stable/)
+- [sharp](http://sharp.pixelplumbing.com/en/stable/)
 
 ## Markdown
 
-- [CMS](https://chrisdiana.github.io/cms.js/)
+- [cms](https://chrisdiana.github.io/cms.js/)
 
 ## Mobile
 
-- [Expo](https://expo.io/)
-- [jQuery Mobile](https://api.jquerymobile.com/)
-- [React-Native](https://facebook.github.io/react-native/)
+- [expo](https://expo.io/)
+- [jQuery mobile](https://api.jquerymobile.com/)
+- [react-native](https://facebook.github.io/react-native/)
 
 ## Numbers
 
-- [Numeral](http://numeraljs.com/)
+- [numeral](http://numeraljs.com/)
 
 ## PDF
 
@@ -82,15 +107,15 @@ Just a personal listing of helpful js libraries/framework
 
 ## Process Management
 
-- [PM2](http://pm2.keymetrics.io/)
+- [pm2](http://pm2.keymetrics.io/)
 
 ## Spreadsheet
 
-- [SheetJS](https://sheetjs.com/)
+- [sheetjs](https://sheetjs.com/)
 
 ## SVG
 
-- [Snap](http://snapsvg.io/)
+- [snap](http://snapsvg.io/)
 
 ## Utilities
 
@@ -99,27 +124,33 @@ Just a personal listing of helpful js libraries/framework
 
 ## Testing Tools
 
-- [Appium](https://github.com/appium/appium)
-- [Jasmine](https://jasmine.github.io/)
-- [Jest](https://jestjs.io/)
-- [Karma](https://karma-runner.github.io/latest/index.html)
-- [Mocha](https://mochajs.org/)
-- [QUnit](https://qunitjs.com/)
+- [appium](https://github.com/appium/appium)
+- [jasmine](https://jasmine.github.io/)
+- [jest](https://jestjs.io/)
+- [karma](https://karma-runner.github.io/latest/index.html)
+- [mocha](https://mochajs.org/)
+- [qunit](https://qunitjs.com/)
 
 ## Visualizers for Developers
 
-- [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 - [Git Branching](https://learngitbranching.js.org/)
-- [Cytoscape](http://js.cytoscape.org/)
-- [TensorSpace](https://tensorspace.org/)
+- [cytoscape](http://js.cytoscape.org/)
+- [tensorspace](https://tensorspace.org/)
 
 ## WYSIWYG Text Editor
 
-- [Slate](https://github.com/ianstormtaylor/slate)
+- [slate](https://github.com/ianstormtaylor/slate)
 
 ## Web Servers & Related
 
-- [Express](https://expressjs.com/)
-- [Kraken](http://krakenjs.com/)
-- [Nock](https://github.com/nock/nock)
-- [Node](https://nodejs.org/en/)
+- [express](https://expressjs.com/)
+- [kraken](http://krakenjs.com/)
+- [nock](https://github.com/nock/nock)
+- [node](https://nodejs.org/en/)
+
+### Express Server Middleware
+
+- [body-parser](https://www.npmjs.com/package/body-parser)
+- [cookier-session](https://www.npmjs.com/package/cookie-session)
+- [express-session](https://www.npmjs.com/package/express-session)
