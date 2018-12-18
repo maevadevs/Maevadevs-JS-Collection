@@ -1,6 +1,6 @@
-# js-collections
+# `maevadevs` JS Collections
 
-Just a personal listing of helpful js libraries/framework
+This is my personal listing of helpful js libraries/framework
 
 ## Animation
 
